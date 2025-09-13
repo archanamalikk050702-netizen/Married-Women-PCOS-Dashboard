@@ -1,2 +1,5 @@
 # Married-Women-PCOS-Dashboard
 A data-driven dashboard designed to analyze and visualize health, lifestyle, and wellness patterns of married women with PCOS (Polycystic Ovarian Syndrome). The dashboard offers insights into symptoms ,exercise ,key health metrics and lifestyle health to support better awareness, self-tracking, and decision-making.
+**"C:\Users\RAJESH MALIK\Downloads\PCOS_data.csv"**
+**https://app.powerbi.com/view?r=eyJrIjoiNzFkYjk4YTUtZmExZC00ZDNmLWI3NTktMjE0NDJhN2Y1ZTZmIiwidCI6IjY4NTYxZTJjLWQyOTAtNDNmNi1iMzY5LTNjNjFjNjkwM2MwYSJ9**
+"C:\Users\RAJESH MALIK\OneDrive\Pictures\Screenshots\pcod screenshot.png"
